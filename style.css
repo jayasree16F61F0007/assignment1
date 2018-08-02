@@ -1,0 +1,23 @@
+header{
+  text-aline:center;
+  font-family:Georgia;
+}
+.parent{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.leftchaild{
+  padding:1%;
+  width:30%;
+  margin:1%;
+}
+.rightchaild{
+  padding:1%;
+  width:70%;
+  margin:1%;
+}
+img{
+  width:300px;
+  height:auto;
+}
